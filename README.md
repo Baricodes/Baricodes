@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baricodes
 - 👀 I’m interested in backend engineering! 
 - 🌱 I’m currently learning AWS!
-- 💞️ I’m looking to collaborate on anything I can learn from!
+- 💞️ I’m looking to collaborate on something that helps others!
 - 📫 How to reach me? If you have my resume you can email me or use linkedin!
 
 <!---
