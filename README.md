@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baricodes
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in backend engineering! 
+- 🌱 I’m currently learning AWS!
 - 💞️ I’m looking to collaborate on anything I can learn from!
 - 📫 How to reach me? If you have my resume you can email me!
 
