@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Baricodes
-- 👀 I’m interested in backend & front-end engineering! 
-- 🌱 I’m currently learning AWS!
-- 💞️ I’m looking to collaborate on something that helps others!
-- 📫 How to reach me? If you have my resume you can email me or use linkedin!
+- 👋 Hi, I’m Jabari
+- 🛠️ Senior Systems Engineer | 🐍 Python, ☁️ AWS  
+- ⚙️ Building robust systems with clear, predictable behavior.  
+- 🤖 AI-powered cloud infrastructure and reliability engineering.
 
 <!---
 Baricodes/Baricodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
