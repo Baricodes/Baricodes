@@ -1,6 +1,6 @@
 # Hi, I'm Jabari 👋
 
-Senior Systems Engineer focused on cloud infrastructure, reliability engineering, 
+Sr. Analyst III focused on cloud infrastructure, reliability engineering, 
 and AI-powered automation on AWS.
 
 I build systems that are highly available, observable, and easy to reason about.
