@@ -43,12 +43,6 @@ I build event-driven, fault-tolerant systems on AWS — from real-time threat de
 
 ---
 
-## 📊 GitHub Stats
-
-![Jabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baricodes&show_icons=true&hide_border=true&count_private=true&theme=default)
-
----
-
 ## 📫 Let's connect
 
 Open to senior cloud engineering and AI infrastructure roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE) or check out my writing on [Medium](https://medium.com/@Jabari.Henry).
